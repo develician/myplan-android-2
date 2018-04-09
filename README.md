@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/45107806/autocomplete-search-bar-in-google-m
 
 ### Other Docs Helping Sites.
 http://duzi077.tistory.com/125 (get Lat, get Long)
+
+
+### Type your API Key in gradle.properties File
