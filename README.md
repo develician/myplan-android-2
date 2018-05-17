@@ -12,3 +12,4 @@ http://duzi077.tistory.com/125 (get Lat, get Long)
 
 
 ### Type your API Key in gradle.properties File
+# myplan-android-2
